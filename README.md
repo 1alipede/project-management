@@ -22,16 +22,6 @@
     </a>
 </p>
 
-# Introduction
-
-![logo](readme-logo.png)
-
-Helper, is a great tool if you want to manage your projects, tickets and be here for your clients
-
-It comes also with more than 60 languages ready to use.
-
-All this made with the best technologies.
-
 ## Prerequisites
 
 - PHP 8+
