@@ -12,9 +12,6 @@
     <a href="#license">
         <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License">
     </a>
-    <a href="https://github.com/devaslanphp/project-management/issues">
-        <img src="https://img.shields.io/github/issues/devaslanphp/project-management?style=for-the-badge" alt="issues - project-management">
-    </a>
     <br/>
     <a href="https://devaslanphp.github.io/project-management" title="Go to project documentation">
         <img src="https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge" alt="view - Documentation">
@@ -40,37 +37,6 @@ All this made with the best technologies.
 - PHP 8+
 - MySQL 8+
 - [Pusher](https://pusher.com/) account
-
-## Screenshots
-
-<div>
-    <img src="github-contents/1.png" width="20%"></img> 
-    <img src="github-contents/2.png" width="20%"></img> 
-    <img src="github-contents/3.png" width="20%"></img> 
-    <img src="github-contents/4.png" width="20%"></img> 
-    <img src="github-contents/5.png" width="20%"></img> 
-    <img src="github-contents/6.png" width="20%"></img> 
-    <img src="github-contents/7.png" width="20%"></img> 
-    <img src="github-contents/8.png" width="20%"></img> 
-    <img src="github-contents/9.png" width="20%"></img> 
-    <img src="github-contents/10.png" width="20%"></img> 
-    <img src="github-contents/11.png" width="20%"></img> 
-    <img src="github-contents/12.png" width="20%"></img> 
-    <img src="github-contents/13.png" width="20%"></img> 
-    <img src="github-contents/14.png" width="20%"></img> 
-    <img src="github-contents/15.png" width="20%"></img> 
-    <img src="github-contents/16.png" width="20%"></img> 
-    <img src="github-contents/17.png" width="20%"></img> 
-    <img src="github-contents/18.png" width="20%"></img> 
-    <img src="github-contents/19.png" width="20%"></img> 
-    <img src="github-contents/20.png" width="20%"></img> 
-    <img src="github-contents/21.png" width="20%"></img> 
-    <img src="github-contents/22.png" width="20%"></img> 
-    <img src="github-contents/23.png" width="20%"></img> 
-    <img src="github-contents/24.png" width="20%"></img> 
-    <img src="github-contents/25.png" width="20%"></img> 
-    <img src="github-contents/26.png" width="20%"></img> 
-</div>
 
 ## Documentation
 
